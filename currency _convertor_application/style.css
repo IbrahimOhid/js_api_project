@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(315deg, #00ccff, #ff0062);
+    font-family: 'Inter', sans-serif;
+    height: 100vh;
+}
+.currency-div{
+    background-color: #40407a;
+    
+}
+#convertBtn{
+    background: linear-gradient(315deg, #ff0062, #00ccff);
+}
+#convertBtn:hover{
+    background: linear-gradient(315deg, #00ccff, #ff0062);
+}
+.exchange-img{
+    width: 100px;
+}
+.convert-rate{
+    background: #ef5777;
+    border-radius: 10px;
+}
